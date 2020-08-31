@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecycleViewTest</string>
+
+    <string-array name="Vaseline_Type">
+        <item>Vaseline1</item>
+        <item>Vaseline2</item>
+        <item>Vaseline3</item>
+        <item>Vaseline4</item>
+        <item>Vaseline5</item>
+        <item>Vaseline6</item>
+        <item>Vaseline7</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>This Is A Random Description.</item>
+        <item>This Is A Random Description.</item>
+        <item>This Is A Random Description.</item>
+        <item>This Is A Random Description.</item>
+        <item>This Is A Random Description.</item>
+        <item>This Is A Random Description.</item>
+        <item>This Is A Random Description.</item>
+    </string-array>
+</resources>
